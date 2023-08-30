@@ -1,0 +1,81 @@
+.background-html {
+width: 1160px;
+background-color: #782221;
+z-index: -3;
+}
+.profil {
+    border-radius: 180px;
+    margin-left: 45%;
+}
+.nom{
+text-align: center;
+color: white;
+}
+.flexbox1{
+    background-color: #2c1d27;
+    margin-top: 30px;
+    width: 1160px;
+    padding: 5px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+.nom2{
+    color: white;
+    z-index: 5;
+    margin-left: 400px;
+}
+.nom3{
+    color: white;
+    z-index: 5;
+    margin-left:30px ;
+}
+.nom4{
+    color: white;
+    z-index: 5;
+    margin-left:300px ;
+}
+.flexbox{
+    
+    margin-top: 0px;
+    flex-direction: row-reverse;
+    z-index: 1;
+    display: flex;
+    position: absolute;
+    width: 1160px;
+    height: 700px;
+    top: 350px;
+}
+.flex1{
+    background-color: white;
+    width: 70%;
+    height: 100%;
+}
+.flex2{
+    background-color:#782221;
+    width: 30%;
+    height: 100px;
+    
+}
+.titre1{
+    background-color: #dbc2a4;
+    margin-right: 30px;
+}
+.nom5{
+    color: white;
+}
+.flex3{
+color: white;
+}
+.titre2{
+    margin-left: 30px;
+    background: linear-gradient(90deg, #782221  1%, 1%,  #dbc2a4 90%);
+    margin-right: 6%;
+}
+.str01{
+ padding-left: 3%;
+}
+.nom6{
+  margin-left:30px ;
+  color: black;
+}
